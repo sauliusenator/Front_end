@@ -1,0 +1,70 @@
+nav {
+    border: 2px solid red;
+    border-radius: 1px;
+    line-height: 1;
+    background-color: rgb(233, 238, 163);
+    margin: 7px;
+    
+}
+
+.home {
+    border-style: dotted; /* apvedimo stilius taskiukais*/
+    border-radius: px;
+    
+}
+
+main {
+    border: 5px solid;
+    border-color: red rgba(50, 75, 220, 0.6) rgb(220, 255, 19);
+    border-radius: 1px;
+
+    
+    
+} 
+p.big { 
+    width:300px; /* subsection text ikelimas i langeli ir jo ilgis*/
+    padding: 50px;  /* txt langelyje auto mazinasi ar didinasi pagal px*/
+    border: 2px solid gray;
+    box-sizing: border-box;
+    /*margin: 30px; is visu pusiu*/ 
+    /*margin: 5px 20px; /* virsus apacia, atitraukia nuo krašto betkuria pažymėta vietą*/
+    margin: 30px 70px 15px 40px; 
+   
+    /* 1-nuo virs, kiekvienas 3-tarp box atitraukia, 
+    4-nuo kaires i desine stumia */ 
+   
+    line-height: 2; /* tarpas tarp eiluciu*/
+}
+p.small { 
+    line-height: 2;
+    
+}
+
+
+aside {
+    border: 2px solid red;
+    border-radius: 1px; 
+      
+}
+footer {
+    border: 2px solid red;
+    border-radius: 30px;   
+}  
+/*
+picture {
+    width: 600px;
+    height: 100px;
+    margin: 20px;
+}*/
+ img {
+    background-color: rgb(180, 194, 180);
+    border: 10px solid #dd2626;
+    border-radius: 10px;
+    padding: 50px;
+    width: 600px;
+    height: 300px;
+    background-attachment: scroll, local;
+ 
+ }
+
+ 

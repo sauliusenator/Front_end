@@ -1,0 +1,34 @@
+span{
+    color: rgb(0, 195, 255)
+}
+a {
+    color:brown;
+}
+{
+    color: blue; background-color: yellow;
+    border: 2 px solid black;
+  }
+  p {
+    color: red;
+  }
+  
+  b {
+    
+    color: yellowgreen; 
+}
+ 
+
+
+  p2{
+    color:rgb(9, 255, 0)
+  }
+  p3 {
+   
+    color:rgb(247, 5, 5);
+  }
+
+  p4 {
+    line-height: 2;
+    background-color: aquamarine;
+    
+  }

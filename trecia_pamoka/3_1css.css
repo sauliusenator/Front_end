@@ -1,0 +1,31 @@
+.linija {
+    
+    width:2000px;
+    height: 5000;
+    border: 3px solid rgb(235, 18, 18);
+    border-collapse: collapse;
+}
+.height {
+    line-height: 2;
+}
+
+/*
+nav{
+    background-color:aquamarine;
+    width:1000px;
+    height: 5000;
+    text-align: center;    
+}
+.container{
+background-color: green;
+width: 90;
+height:35px;
+text-align: left;
+
+}
+footer{
+background-color: lightblue;
+width: 500;
+height: 60;
+text-align: right;
+}

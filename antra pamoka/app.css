@@ -1,0 +1,22 @@
+
+body {
+background-color: rgb(188, 243, 243);
+}
+
+h1 {
+    color: rgb(0, 94, 255, 0.5);
+    background-color: hsl(67, 100%, 50%)
+    
+}
+
+p {
+background-color: #498723
+}
+
+.my-span { 
+    color: greenyellow;
+}
+
+#my-ip {
+    color: red;
+}
